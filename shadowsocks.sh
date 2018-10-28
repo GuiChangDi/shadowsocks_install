@@ -14,8 +14,8 @@ echo
 echo "#############################################################"
 echo "# One click Install Shadowsocks-Python server               #"
 echo "# Intro: https://teddysun.com/342.html                      #"
-echo "# Author: Teddysun <i@teddysun.com>                         #"
-echo "# Github: https://github.com/shadowsocks/shadowsocks        #"
+echo "# Author: Gui <GuiChangDi@gmail.com>                        #"
+echo "# Github: https://github.com/GuiChangDi/shadowsocks_install #"
 echo "#############################################################"
 echo
 
